@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","83","test_login_with_valid_cred","samplepackages","2026-07-03","broken","2026-07-03","TestSearch","test_login_page","",""
+"","2371","test_ninja1235555","samplepackages","2026-07-03","passed","2026-07-03","TestLogin","test_SampleFile","",""
+"","3501","test_create_account_with_man_filed","samplepackages","2026-07-03","passed","2026-07-03","TestRegister","test_register","",""
+"","5277","test_create_account_with_man_all_filed","samplepackages","2026-07-03","passed","2026-07-03","TestRegister","test_register","",""
+"","937","test_ninja123","samplepackages","2026-07-03","passed","2026-07-03","TestLogin","test_SampleFile","",""
+"","57","test_login_with_invalid_cred","samplepackages","2026-07-03","broken","2026-07-03","TestSearch","test_login_page","",""
+"","1162","test_ninja","samplepackages","2026-07-03","passed","2026-07-03","TestLogin","test_SampleFile","",""

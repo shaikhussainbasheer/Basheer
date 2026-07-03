@@ -1,0 +1,1 @@
+{"name": "test_ninja[firefox]", "status": "passed", "parameters": [{"name": "setup_and_teardown", "value": "'firefox'"}], "start": 1780996059239, "stop": 1780996063801, "uuid": "94fe414d-4abe-47a1-a82a-aa07d62544fe", "testCaseId": "737ba89a36cde2e818670feb690f6a7b", "fullName": "test_SampleFile.TestLogin#test_ninja", "titlePath": ["test_SampleFile.py", "TestLogin"]}
